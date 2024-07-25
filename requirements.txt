@@ -2,3 +2,4 @@ jupyter
 Jaal
 dash
 pandas
+matplotlib
