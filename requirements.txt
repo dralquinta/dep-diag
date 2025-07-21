@@ -3,3 +3,4 @@ Jaal
 dash
 pandas
 matplotlib
+reportlab
